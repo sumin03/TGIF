@@ -16,7 +16,7 @@ html{font-size:10px;}
 body{
     overflow-x:hidden;
     width:100%;
-    background:url(../01_main\ /img/1920_background.png) no-repeat center;
+    background:url(1920_background.png) no-repeat;
     background-size:100% ;
     background-position-x:0.5px;
  }
