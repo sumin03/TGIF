@@ -12,12 +12,15 @@ _This is TGIF website. Re-desgin and re-coded by myself_
 
 ## The reason I tried to change this website.
 
-### 📍http://www.shakeshack.kr
-> This is original Shake-shack website 
+### 📍http://www.tgif.co.kr/main.asp 
+### 📍https://www.tgifridays.com 
+> This is original tgif websites (korea/State) 
 
-When I open the website, It feels like I'm looking into a **blog** not a **company website**
-So I tried to keep **Original shake-shack website vibe** but by changing the layout, banners, and font-family. 
-I wanted to give a professional vibe on there. 
+When I open **korean website** I felt that website doesn't use layout for **full-screen mode** So It's a bit hard to see the content. 
+So I tried to change whole layour for **full-screen mode**
+Plus, All pages looks like normal restaurant menu, not a proper website. So I tried to make whole new layout for menu.
+Otherwise **State website** doesn't have a content even though they made webstie, also main page only has **Big slides** 
+So, I tried to combined two websites and make new one :) 
 
 
 
