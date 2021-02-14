@@ -16,10 +16,10 @@ _This is TGIF website. Re-desgin and re-coded by myself_
 ### 📍https://www.tgifridays.com 
 > This is original tgif websites (korea/State) 
 
-When I open **korean website** I felt that website doesn't use layout for **full-screen mode** So It's a bit hard to see the content. 
-So I tried to change whole layour for **full-screen mode**
-Plus, All pages looks like normal restaurant menu, not a proper website. So I tried to make whole new layout for menu.
-Otherwise **State website** doesn't have a content even though they made webstie, also main page only has **Big slides** 
+When I open **korean website** I felt that website doesn't use layout for **full-screen mode** So It's a bit hard to see the content.<br>
+So I tried to change whole layour for **full-screen mode**<br>
+Plus, All pages looks like normal restaurant menu, not a proper website. So I tried to make whole new layout for menu.<br>
+Otherwise **State website** doesn't have a content even though they made webstie, also main page only has **Big slides** <br>
 So, I tried to combined two websites and make new one :) 
 
 
