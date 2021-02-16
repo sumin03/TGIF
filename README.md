@@ -87,27 +87,26 @@ If you want to see more check my css history on my github!
 1. I really like that I tried to make responsive website with the materials that I found out. <br>
    I could have the result that I wanted to get
 
-<img width="600" src="https://user-images.githubusercontent.com/77384682/107678135-5c2e2680-6cde-11eb-8131-75da57f2ffee.gif">
-
-
-<img width="600" alt="스크린샷 2021-02-10 오전 4 18 39" src="https://user-images.githubusercontent.com/77384682/107678205-749e4100-6cde-11eb-98d2-b8974ec3fe73.gif">
+<img width="600" src=https://user-images.githubusercontent.com/77384682/108103499-603ab980-70cd-11eb-9385-83d0336d42b6.gif">
+                                                                                                                           
 
 2. I tried to make the landing page much more remarkable when users open the website. 
    So I designed top of the landing page with circle shape and also use their representative color! 
 
 
-<img width="600" src="https://user-images.githubusercontent.com/77384682/107679833-681ae800-6ce0-11eb-83cf-f32b8f6698ca.gif">
+<img width="600" src="https://user-images.githubusercontent.com/77384682/108103581-7cd6f180-70cd-11eb-9ab5-06937b0b6304.png">
 
 
 
 3. When you see the **original website** They do not have detailed page about the menu. 
 So I made detailed page and also add **Other options for Appetizers** to give more options to users. 
 
-<img width="600" src="https://user-images.githubusercontent.com/77384682/107678762-2178be00-6cdf-11eb-8956-19049bdb8ceb.gif">
+<img width="600" src="https://user-images.githubusercontent.com/77384682/108103764-be679c80-70cd-11eb-9af8-8e19afe28cd7.png">
+
 
 4. In Brand Story, Font-size, layout are densed so users hard to read. 
 So I changed the layout,font and image size for users can read it much more comfortable. 
 
-<img width="600" alt="banner" src="https://user-images.githubusercontent.com/77384682/107678557-e6768a80-6cde-11eb-9601-ee01b4f0aca3.png">
+<img width="600" alt="banner" src="https://user-images.githubusercontent.com/77384682/108104391-988ec780-70ce-11eb-9587-38576edfcc76.png">
 >
 
