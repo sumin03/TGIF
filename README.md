@@ -1,4 +1,4 @@
-# TGIF
+# 🌮 TGIF 🌮
 _This is TGIF website. Re-desgin and re-coded by myself_ 
 
 ### 📍https://sumin03.github.io/TGIF/
