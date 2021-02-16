@@ -108,5 +108,5 @@ So I made detailed page and also add **Other options for Appetizers** to give mo
 So I changed the layout,font and image size for users can read it much more comfortable. 
 
 <img width="600" alt="banner" src="https://user-images.githubusercontent.com/77384682/108104391-988ec780-70ce-11eb-9587-38576edfcc76.png">
->
+
 
