@@ -54,24 +54,12 @@ I made breakpoints :
 
 #### Changed css code 
 
-I didn't know using **':root'** element before so wrote every element values by myself, even though I kept writing same values. 
-So After studying **':root'** element so I changed it like this 
-<img width="800" alt="root css" src="https://user-images.githubusercontent.com/77384682/107650440-d7cdaa80-6cc1-11eb-9f65-67a7fd81ac9e.png">
-
-
-Plus, I went to academy and took classes but didn't learn about **Responsive layout grid** So had to search about by myself. 
+I went to academy and took classes but didn't learn about **Responsive layout grid** So had to search about by myself. 
 This is the first time I really tried to use it. 
 Here is the websites that I learned by myself
 ### 📍https://material.io/design/layout/responsive-layout-grid.html
 ### 📍https://howto-wordpress-tips.com/responsive-breakpoints-tutorial/
 
-
-<img width="800" alt="html flex " src="https://user-images.githubusercontent.com/77384682/107650553-f2078880-6cc1-11eb-9022-4d41298911ad.png">
-
-
-This is css with **flex-box**
-
-<img width="800" alt="flex css" src="https://user-images.githubusercontent.com/77384682/107650679-1499a180-6cc2-11eb-8c0b-95a7c9a6a663.png">
 
 
 
