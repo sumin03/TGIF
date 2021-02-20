@@ -75,9 +75,12 @@ This is css with **flex-box**
 
 
 
-Last one is Using font-size with rem! I also had to search it by myself as well because I didn't know about the notion before. 
+Last one is Using font-size with **rem**!<br>
+I also had to search it by myself as well because I didn't know about the notion before. <br>
 I used em or px when I make responsvie webpage, but I found out using **rem** is way better than those. 
 So I tried to fix my code with **rem** 
+
+<img width="800" alt="font-size" src="https://user-images.githubusercontent.com/77384682/108603469-5d043e00-73eb-11eb-9ad6-69a264c765e2.png">
 
 
 If you want to see more check my css history on my github! 
