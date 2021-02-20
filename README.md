@@ -75,6 +75,9 @@ This is css with **flex-box**
 
 
 
+Last one is Using font-size with rem! I also had to search it by myself as well because I didn't know about the notion before. 
+I used em or px when I make responsvie webpage, but I found out using **rem** is way better than those. 
+So I tried to fix my code with **rem** 
 
 
 If you want to see more check my css history on my github! 
